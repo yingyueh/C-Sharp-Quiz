@@ -1,0 +1,9 @@
+C:\Users\Teresa\OneDrive\桌面\c#\Ex0319\Ex0319\obj\Debug\Ex0319.csproj.AssemblyReference.cache
+C:\Users\Teresa\OneDrive\桌面\c#\Ex0319\Ex0319\obj\Debug\Ex0319.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\OneDrive\桌面\c#\Ex0319\Ex0319\bin\Debug\Ex0319.exe.config
+C:\Users\Teresa\OneDrive\桌面\c#\Ex0319\Ex0319\bin\Debug\Ex0319.exe
+C:\Users\Teresa\OneDrive\桌面\c#\Ex0319\Ex0319\bin\Debug\Ex0319.pdb
+C:\Users\Teresa\OneDrive\桌面\c#\Ex0319\Ex0319\obj\Debug\Ex0319.exe
+C:\Users\Teresa\OneDrive\桌面\c#\Ex0319\Ex0319\obj\Debug\Ex0319.pdb
+C:\Users\Teresa\OneDrive\桌面\c#\Ex0319\Ex0319\obj\Debug\Ex0319.Form1.resources
+C:\Users\Teresa\OneDrive\桌面\c#\Ex0319\Ex0319\obj\Debug\Ex0319.csproj.GenerateResource.cache
